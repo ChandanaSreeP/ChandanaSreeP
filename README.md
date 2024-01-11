@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate Software Engineer, Full Stack Developer, AI-ML enthusiast and Data Scientist.</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/JXA0.gif">
 
 - ⚡ Fun Fact
-        **I'm funny 😂**
+-       **I'm funny 😂**
 
 <h3 align="left">Connect with me:</h3>
 
