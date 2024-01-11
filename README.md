@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Chandana Sree Padmaraju</h1>
-<h3 align="center">A passionate Software Engineer, Full Stack Developer and Data Scientist.</h3>
+<h3 align="center">A passionate Software Engineer, Full Stack Developer, AI-ML Enthusiastic and Data Scientist.</h3>
 
 - ⚡ Fun Fact **I'm funny 😂**
 
