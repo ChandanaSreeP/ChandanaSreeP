@@ -44,12 +44,18 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/JXA0.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanasreep&label=Profile%20views&color=0e75b6&style=flat" alt="chandanasreep" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandanasreep" alt="chandanasreep" /></a> </p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanasreep&show_icons=true&locale=en&layout=compact" alt="chandanasreep" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanasreep&show_icons=true&locale=en" alt="chandanasreep" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanasreep&" alt="chandanasreep" /></p>
+
