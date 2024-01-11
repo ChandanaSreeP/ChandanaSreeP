@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Software Engineer, Full Stack Developer, AI-ML enthusiast and Data Scientist.</h3>
 
 
-- ⚡ Fun Fact
--       **I'm funny 😂**
+- ⚡ Fun Fact  -   **I'm funny 😂**
 
 <h3 align="left">Connect with me:</h3>
 
